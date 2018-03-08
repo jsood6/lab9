@@ -27,8 +27,11 @@
 }
 
 .jumbotron p {
-     color: #6e6e6e;
+     /*color: #6e6e6e;*/
+     color: pink;
 }
+
+
 
 .lab a {
      text-align: center;
@@ -36,12 +39,14 @@
 
 .lab .details {
      overflow: hidden;
+     
 }
 
 .lab .details .detailsImage {
      width: 200px;
      margin: 10px 10px 10px 0px;
      float: left;
+     
 }
 
 .lab-img{
